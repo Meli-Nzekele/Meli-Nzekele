@@ -1,12 +1,12 @@
 # Hello, I'm Melissa... Welcome to my Github Profile!
 
-#### :sparkles: Northcoders Software Development - January 9th 2023 Cohort :sparkles:
+#### :sparkles: [Northcoders](https://northcoders.com/our-courses/coding-bootcamp) - Full Stack Software Development - January 9th 2023 Cohort :sparkles:
 
 ###### My coding journey so far...
 
-- SheCodes Front-end workshops :- (Coding Basics, Front-end Development, Responsive Web Development and React Development)
-- Code First Girls :- Introduction to Python & Apps 
-- Member of :- [StackUp Dev](https://app.stackup.dev/) an early access app that enables developers to level up, grow and connect with a global Dev community
+- [SheCodes (PRO) Front-end workshops](https://www.shecodes.io/workshops?gclid=Cj0KCQiA5NSdBhDfARIsALzs2ECjZTCOxkiXdP1BBm-2AxZK8cYYp5CSGeRZomBPS3VUE3Hy6vTmW5UaAmGgEALw_wcB) :- (Coding Basics, Front-end Development, Responsive Web Development and React Development)
+- [Code First Girls](https://codefirstgirls.com/courses/classes/coding-kickstarter/) :- Introduction to Python & Apps 
+- [StackUp Dev](https://app.stackup.dev/):- an early access app that enables developers to level up, grow and connect with a global Dev community
 
 ###### Languages and Tools... 
 <div>
